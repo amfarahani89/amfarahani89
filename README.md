@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amfarahani89
+- 👋 Hi, I’m AhmadFarahani
 - 👀 I’m interested in exoplanetary atmosphere.
 - 🌱 I’m currently learning petitRADTRANS package.
 - 💞️ I’m looking to collaborate on ...
